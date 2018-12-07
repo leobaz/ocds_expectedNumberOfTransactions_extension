@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "The expected number of transactions"
+  },
+  "description": {
+    "en": "Adds a field to the contract section to show the expected number of transactions"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/leobaz/ocds_expectedNumberOfTransactions_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}

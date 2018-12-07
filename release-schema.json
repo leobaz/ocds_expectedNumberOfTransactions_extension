@@ -1,0 +1,13 @@
+{
+    "definitions": {
+        "Contracts": {
+            "properties": {
+                "expectedNumberOfTransactions": {
+                    "title": "Expected number of transactions",
+                    "description": "The total number of transactions expected from the contract",
+                    "type": "number"
+                }
+            }
+        }
+    }
+}
